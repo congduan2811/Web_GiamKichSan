@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mpC0b5OxN6s=",
+  "dgSpecHash": "3Tuhuculiqw=",
   "success": true,
-  "projectFilePath": "D:\\CongDuan\\Product\\duanvc2811\\giamkichsan\\API.GiamKichSan\\API.GiamKichSan.csproj",
+  "projectFilePath": "D:\\CongDuan\\Product\\duanvc2811\\Web_GiamKichSan\\API.GiamKichSan\\API.GiamKichSan.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duanv\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\duanv\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
