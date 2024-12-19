@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API.GiamKichSan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cedbf165e51be54bcb0485ff2e1641b508fce38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d89e9ecb4c302ad0e14b53c5649fadcfe88a0a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("API.GiamKichSan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API.GiamKichSan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -88,6 +88,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Domain.GiamKichSan/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Domain.GiamKichSan.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.GiamKichSan.dll": {}
+        }
       }
     }
   },
@@ -429,10 +439,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Domain.GiamKichSan/1.0.0": {
+      "type": "project",
+      "path": "../Domain.GiamKichSan/Domain.GiamKichSan.csproj",
+      "msbuildProject": "../Domain.GiamKichSan/Domain.GiamKichSan.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Domain.GiamKichSan >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -467,7 +483,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\CongDuan\\Product\\duanvc2811\\Web_GiamKichSan\\Domain.GiamKichSan\\Domain.GiamKichSan.csproj": {
+              "projectPath": "D:\\CongDuan\\Product\\duanvc2811\\Web_GiamKichSan\\Domain.GiamKichSan\\Domain.GiamKichSan.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
